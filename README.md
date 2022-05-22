@@ -6,4 +6,6 @@
  <li>Лабораторная №2 "Visual": lab_2_visual_6131_Chaplygin.ipynb</li>
  <li>Лабораторная №3 "Classification": lab_3_classification_6131_Chaplygin.ipynb</li>
  <li>Лабораторная №4 "Trees": lab_4_trees_6131_Chaplygin.ipynb</li>
-</ul> 
+ <li>Лабораторная №5 "Catboost": lab_5_catboost_6131_Chaplygin.ipynb</li>
+ <li>Лабораторная №6 "Linear Models": lab_6_linear_models_6131_Chaplygin.ipynb</li>
+</ul>
